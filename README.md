@@ -9,7 +9,7 @@
 ## Contexte
 
 Dans le cadre de ce projet, nous imaginons que nous travaillons pour une collectivité et que nous avons pour mission de créer des données dans un SIG et de 
-préparer une carte concernant les châteaux de Loire à visiter.
+préparer deux cartes, une concernant les châteaux de Loire à visiter l'autre le nombre de visiteurs en 2015.
 
 ---
 
