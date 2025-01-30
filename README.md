@@ -1,6 +1,6 @@
 ## Auteurs
 
-**Auteurs :**Noémie Lafon  
+**Auteurs :** Noémie Lafon  
 **Master 1 :** Humanités numériques  
 **Date :** janvier 2025
 
